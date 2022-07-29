@@ -1,8 +1,8 @@
 
-alert(`                                                  Xush kelibsiz
-                                              clubcity ga kirish
-                                            uchun registratsiyadan
-                                                otishingiz kerak`)
+alert(`Xush kelibsiz
+clubcity ga kirish
+uchun registratsiyadan
+otishingiz kerak`)
 
 var name = prompt('Iltimos ismingizni kiriting: ', 'Firdavs')
 
