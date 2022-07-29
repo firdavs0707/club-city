@@ -1,0 +1,8 @@
+.hero {
+  background-image: url('../img/photo_2022-07-29_13-49-40.jpg');
+  padding-top: 100px;
+  padding-bottom: 80px;
+  height: 831px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
